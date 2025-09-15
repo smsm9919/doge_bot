@@ -1,0 +1,8 @@
+
+flask
+gunicorn
+requests
+pandas
+numpy
+ta
+termcolor
